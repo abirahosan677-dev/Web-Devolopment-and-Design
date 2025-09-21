@@ -75,4 +75,4 @@ Participate in community discussions, view upcoming events, or swap products.
 
 Acknowledgments
 
-This project was created as part of a student assignment to learn about sensors, Arduino programming, and real-time monitoring systems.
+This project was created as part of a student assignment to learn about Web developoment.
